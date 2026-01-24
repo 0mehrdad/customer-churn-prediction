@@ -33,7 +33,3 @@ Lowered threshold (0.35):
 - Churn recall ≈ **78%**
 
 Lowering the threshold improves churn detection at the cost of more false positives, which is often desirable in churn prediction.
-
-## Key Takeaway
-The model achieves strong performance without data leakage.  
-Threshold tuning is an effective way to balance precision and recall based on business needs.
